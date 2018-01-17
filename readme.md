@@ -12,7 +12,7 @@
 The package provides the developer the ability to upload their assets (or any public file) to a CDN with a single artisan command.
 And then it allows them to switch between the local and the online version of the files.
 
-###### Fork From [Vinelab/cdn](https://github.com/Vinelab/cdn)
+###### Fork From [publiux/laravelcdn](https://github.com/publiux/laravelcdn)
 This project has been forked from https://github.com/Vinelab/cdn. All credit for the original work goes there.
 
 #### Laravel Support
@@ -36,7 +36,7 @@ This project has been forked from https://github.com/Vinelab/cdn. All credit for
 
 #### Via Composer
 
-Require `publiux/laravelcdn` in your project:
+Require `vigenb/laravelcdn` in your project:
 
 ```bash 
 composer require "publiux/laravelcdn:~2.0"
